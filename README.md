@@ -20,8 +20,10 @@
 ## Wii Hacking Guide
 A guide I made for modding a Nintendo Wii. 
 
+
 ## Mistake? Something you want to ask?
 You can ask them here.
+
 
 ## Where can I get this Guide?
 Over here.
