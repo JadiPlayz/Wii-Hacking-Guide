@@ -22,8 +22,8 @@ A guide I made for modding a Nintendo Wii.
 
 
 ## Mistake? Something you want to ask?
-You can ask them here.
+You can ask them [here.](https://github.com/JadiPlayz/Wii-Hacking-Guide/issues/new/choose)
 
 
 ## Where can I get this Guide?
-Over here.
+Over [here.](https://github.com/JadiPlayz/Wii-Hacking-Guide/releases)
