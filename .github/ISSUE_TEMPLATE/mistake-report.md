@@ -2,8 +2,8 @@
 name: Mistake Report
 about: Create a report to help us improve
 title: "[MISTAKE]"
-labels: ''
-assignees: ''
+labels: request
+assignees: JadiPlayz
 
 ---
 
